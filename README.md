@@ -16,4 +16,4 @@ gcc -ansi -pedantic -Wall -o wumpus *.c
 ./wumpus
 ```
 
-*It's best to be compiled and run on Linux.
+*It's best to be compiled and ran on Linux.
