@@ -2,7 +2,7 @@
 
 ###### Project for Advanced Programming Techniques Assignment 1 [95/100%], RMIT University 2018 
 
-Implemented various in-game functions in **C language [ANSI / ISO C]**.
+Implemented various in-game core functions in **C language [ANSI / ISO C]**.
 
 ##### To compile:
 
