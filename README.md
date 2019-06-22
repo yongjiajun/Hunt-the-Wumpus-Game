@@ -4,13 +4,13 @@
 
 Implemented various in-game core functions in **C language [ANSI / ISO C]**.
 
-##### To compile:
+#### To compile:
 
 ```bash
 gcc -ansi -pedantic -Wall -o wumpus *.c
 ```
 
-##### To run:
+#### To run:
 
 ```bash
 ./wumpus
